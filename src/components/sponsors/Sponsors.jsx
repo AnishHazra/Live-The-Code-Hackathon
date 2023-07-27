@@ -35,14 +35,15 @@ export default function Func(){
           <div class="sponsors">
             <div class="sponsors-heading">
                 <h1>Sponsors & Partners</h1>
+                <h2>Coming Soon...</h2>
             </div>
-            <div class="interested">
+            {/* <div class="interested">
                 <h3>Interested in Sponsoring</h3>
                 <button>Sponsor us</button>
-            </div>
+            </div> */}
 
-            <Carousel className='carousel'>
-            {/* <Func {...settings}/> */}
+            {/* <Carousel className='carousel'>
+            <Func {...settings}/>
                 <div className='slider'>
                     <img className="slider-img" src={one}  />
                 </div>
@@ -76,7 +77,7 @@ export default function Func(){
                 <div>
                     <img className="slider-img" src={elev} />
                 </div>
-            </Carousel>
+            </Carousel> */}
             </div>
             </>
             </div>

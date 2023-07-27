@@ -19,7 +19,8 @@ export default function Prize() {
                 </div>
                 <h2>Overall First</h2>
                 <a href="">T&C</a>
-                <p>Coil Prize, SAWO community box, Devfolio Swag kit, Taskade LifeTime Access, Streamyard Essential Plan, Egghead 1 year plan (all the courses), GFG 1150 coupon - applicable on all courses, Clerky LifeTime Package worth $800, $35</p>
+                {/* <p>Coil Prize, SAWO community box, Devfolio Swag kit, Taskade LifeTime Access, Streamyard Essential Plan, Egghead 1 year plan (all the courses), GFG 1150 coupon - applicable on all courses, Clerky LifeTime Package worth $800, $35</p> */}
+                <p>Revealed Soon...</p>
             </div>
 
             <br/>
@@ -33,7 +34,8 @@ export default function Prize() {
                     <img src={second} alt=""/>
                 </div>
                 <a href="">T&C</a>
-                <p>Coil Prize, SAWO community box, Devfolio Swag kit, Taskade LifeTime Access, Streamyard Essential Plan, Egghead 1 year plan (all the courses), GFG 800 coupon - applicable on all courses, $20</p>
+                {/* <p>Coil Prize, SAWO community box, Devfolio Swag kit, Taskade LifeTime Access, Streamyard Essential Plan, Egghead 1 year plan (all the courses), GFG 800 coupon - applicable on all courses, $20</p> */}
+                <p>Revealed Soon...</p>
             </div>
             <br/>
             <br/>
@@ -43,7 +45,8 @@ export default function Prize() {
                 </div>  
                 <h2>Overall Third</h2>
                 <a href="">T&C</a>
-                <p>Coil Prize, SAWO community box, Devfolio Swag kit, Taskade LifeTime Access, Streamyard Essential Plan, Egghead 1 year plan (all the courses), GFG 500 coupon - applicable on all courses, $15</p>
+                {/* <p>Coil Prize, SAWO community box, Devfolio Swag kit, Taskade LifeTime Access, Streamyard Essential Plan, Egghead 1 year plan (all the courses), GFG 500 coupon - applicable on all courses, $15</p> */}
+                <p>Revealed Soon...</p>
             </div>
             <br/>
             <br/>
@@ -53,7 +56,8 @@ export default function Prize() {
                 </div>
                 <h2>Overall Fourth & Fifth</h2>
                 <a href="">T&C</a>
-                <p>Devfolio swag kit, egg head coupon, taskade 2 year, Gfg 150 coupon, Coding ninjas 25%off coupon</p>
+                {/* <p>Devfolio swag kit, egg head coupon, taskade 2 year, Gfg 150 coupon, Coding ninjas 25%off coupon</p> */}
+                <p>Revealed Soon...</p>
             </div>
             <br/>
             <br/>
@@ -61,12 +65,13 @@ export default function Prize() {
                 <div className="others">
                     <img src={other} alt=""/>
                 </div>
-                <h2>Polygon - Devfolio</h2>
+                {/* <h2>Polygon - Devfolio</h2>
                 <h2>Hackathon Season Prize</h2>
                 <a href="">T&C</a>
                 <p>Polygon will be giving away a cash prize for the best hack built on top of Ethereum (Rs.10000) during the hackathon. For teams that integrate Polygon in their hacks as well the prize money will be higher (Rs.15000) along with eligibility for internship/full-time role interviews and a chance to land seed funding of upto 5000 USD
 
-                </p>
+                </p> */}
+                <h2>Revealed Soon...</h2>
             </div>
             <br/>
             <br/>    
@@ -74,10 +79,11 @@ export default function Prize() {
                 <div className="others">
                     <img src={other} alt=""/>
                 </div>
-                <h2>Tezos - Devfolio Hackathon</h2>
+                {/* <h2>Tezos - Devfolio Hackathon</h2>
                 <h2>Season Prizer</h2>
                 <a href="">T&C</a>
-                <p>15000 INR for best Dapp built on Tezos,Continuity grant opportunity up to 5,000 USD for an outstanding project and Every valid submission made in the Tezos track will be rewarded with exclusive Schwag Kits.</p>
+                <p>15000 INR for best Dapp built on Tezos,Continuity grant opportunity up to 5,000 USD for an outstanding project and Every valid submission made in the Tezos track will be rewarded with exclusive Schwag Kits.</p> */}
+                <h2>Revealed Soon...</h2>
             </div>
             <br/>
             <br/>
@@ -85,10 +91,11 @@ export default function Prize() {
                 <div className="others">
                     <img src={other} alt=""/>
                 </div>
-                <h2>Filecoin - Devfolio</h2>
+                {/* <h2>Filecoin - Devfolio</h2>
                 <h2>Hackathon Season Prize</h2>
                 <a href="">T&C</a>
-                <p>15000 INR for best use of IPFS and/or Filecoin</p>
+                <p>15000 INR for best use of IPFS and/or Filecoin</p> */}
+                <h2>Revealed Soon...</h2>
             </div>
             <br/>
             <br/>
@@ -96,9 +103,10 @@ export default function Prize() {
                 <div className="others">
                     <img src={other} alt=""/>
                 </div>
-                <h2>Sawo Lab API Prize</h2>
+                {/* <h2>Sawo Lab API Prize</h2>
                 <a href="">T&C</a>
-                <p>100$ and Community Box to the winning team for using Sawo Labs API</p>
+                <p>100$ and Community Box to the winning team for using Sawo Labs API</p> */}
+                <h2>Revealed Soon...</h2>
             </div>
             <br/>
             <br/>
@@ -106,10 +114,11 @@ export default function Prize() {
                 <div className="others">
                     <img src={other} alt=""/>
                 </div>
-                <h2>Celo - Devfolio Hackathon</h2>
+                {/* <h2>Celo - Devfolio Hackathon</h2>
                 <h2>Season Prize</h2>
                 <a href="">T&C</a>
-                <p>15000 INR for best Dapp built on Celo</p>
+                <p>15000 INR for best Dapp built on Celo</p> */}
+                <h2>Revealed Soon...</h2>
             </div>
             <br/>
             <br/>
@@ -117,9 +126,10 @@ export default function Prize() {
                 <div className="others">
                     <img src={other} alt=""/>
                 </div>
-                <h2>Coil API Prize</h2>
+                {/* <h2>Coil API Prize</h2>
                 <a href="">T&C</a>
-                <p>3 Coil Prizes for overall winners and Coil Prizes for all who integrate coil API</p>
+                <p>3 Coil Prizes for overall winners and Coil Prizes for all who integrate coil API</p> */}
+                <h2>Revealed Soon...</h2>
             </div>
             <br/>
             <br/>
